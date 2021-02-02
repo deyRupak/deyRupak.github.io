@@ -1,0 +1,32 @@
+.skills {
+  height: 100%;
+  width: 100%;
+}
+
+.skill_title {
+  font-family: "Lato", sans-serif;
+  font-size: 4rem;
+  text-align: center;
+  color: #959da5;
+  opacity: 0.9;
+}
+
+.skill_items {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  font-size: 1.8rem;
+  color: white;
+  line-height: 3.2rem;
+  padding: 2rem 0;
+}
+
+@media only screen and (min-width: 741px) {
+  .skill_title {
+    font-size: 8rem;
+  }
+
+  .skill_items {
+    font-size: 2.2rem;
+    line-height: 3.8rem;
+  }
+}

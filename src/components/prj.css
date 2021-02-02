@@ -1,0 +1,24 @@
+.prj {
+  height: 100%;
+  width: 100%;
+}
+
+.prj_title {
+  font-family: "Lato", sans-serif;
+  font-size: 4rem;
+  text-align: center;
+  color: #959da5;
+  opacity: 1;
+}
+
+.prj_items {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  padding: 8rem 0;
+}
+
+@media only screen and (min-width: 741px) {
+  .prj_title {
+    font-size: 8rem;
+  }
+}
