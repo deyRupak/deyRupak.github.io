@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50086a2c.chunk.css",
+    "main.js": "/static/js/main.bd238eaf.chunk.js",
+    "main.js.map": "/static/js/main.bd238eaf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3888eb90.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3888eb90.js.map",
+    "static/js/2.e4bbcc61.chunk.js": "/static/js/2.e4bbcc61.chunk.js",
+    "static/js/2.e4bbcc61.chunk.js.map": "/static/js/2.e4bbcc61.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.50086a2c.chunk.css.map": "/static/css/main.50086a2c.chunk.css.map",
+    "static/js/2.e4bbcc61.chunk.js.LICENSE.txt": "/static/js/2.e4bbcc61.chunk.js.LICENSE.txt",
+    "static/media/discord1.0122db70.jpg": "/static/media/discord1.0122db70.jpg",
+    "static/media/oculus.31539b62.png": "/static/media/oculus.31539b62.png",
+    "static/media/spotify3.78c6967a.jpg": "/static/media/spotify3.78c6967a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3888eb90.js",
+    "static/js/2.e4bbcc61.chunk.js",
+    "static/css/main.50086a2c.chunk.css",
+    "static/js/main.bd238eaf.chunk.js"
+  ]
+}
