@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.3800f51e.chunk.css",
-    "main.js": "/static/js/main.89f8ad84.chunk.js",
+    "main.js": "/static/js/main.3aa6be10.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3888eb90.js",
     "static/js/2.e4bbcc61.chunk.js": "/static/js/2.e4bbcc61.chunk.js",
     "index.html": "/index.html",
     "static/js/2.e4bbcc61.chunk.js.LICENSE.txt": "/static/js/2.e4bbcc61.chunk.js.LICENSE.txt",
-    "static/media/Rupak Dey_Resume.c088853c.pdf": "/static/media/Rupak Dey_Resume.c088853c.pdf",
+    "static/media/Rupak Dey_Resume.c2bd7f9f.pdf": "/static/media/Rupak Dey_Resume.c2bd7f9f.pdf",
     "static/media/discord1.0122db70.jpg": "/static/media/discord1.0122db70.jpg",
     "static/media/oculus.31539b62.png": "/static/media/oculus.31539b62.png",
     "static/media/spotify3.78c6967a.jpg": "/static/media/spotify3.78c6967a.jpg"
@@ -15,6 +15,6 @@
     "static/js/runtime-main.3888eb90.js",
     "static/js/2.e4bbcc61.chunk.js",
     "static/css/main.3800f51e.chunk.css",
-    "static/js/main.89f8ad84.chunk.js"
+    "static/js/main.3aa6be10.chunk.js"
   ]
 }
